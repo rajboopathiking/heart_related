@@ -15,16 +15,16 @@ You can install the necessary packages using the following command:
 
     pip install numpy pandas scikit-learn
 Installing
-Clone the repository to your local machine:
+### Clone the repository to your local machine:
     git clone https://github.com/username/heart-related.git
-Navigate to the project directory:
+### Navigate to the project directory:
     cd heart-disease-prediction
 Run the Jupyter Notebook or Python script to see the prediction model in action.
 ### Usage
 
 Jupyter Notebook: Open heart_disease_prediction.ipynb using Jupyter Notebook and run the cells to see the step-by-step process of building and evaluating the prediction model.
 Python Script: Alternatively, you can run heart_disease_prediction.py using Python:
-    python heart_disease_prediction.py
+        python heart_disease_prediction.py
 This will execute the script and display the prediction results.
 
 ### Data
