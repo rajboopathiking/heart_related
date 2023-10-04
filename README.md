@@ -23,8 +23,8 @@ Run the Jupyter Notebook or Python script to see the prediction model in action.
 ### Usage
 
 Jupyter Notebook: Open heart_disease_prediction.ipynb using Jupyter Notebook and run the cells to see the step-by-step process of building and evaluating the prediction model.
-Python Script: Alternatively, you can run heart_disease_prediction.py using Python:
-        python heart_disease_prediction.py
+### Python Script: Alternatively, you can run heart_disease_prediction.py using Python:
+    python heart_disease_prediction.py
 This will execute the script and display the prediction results.
 
 ### Data
